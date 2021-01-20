@@ -1,2 +1,0 @@
-latten.compact
-end
