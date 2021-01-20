@@ -6,7 +6,6 @@ describe "#second_supply_for_fourth_of_july" do
     end
   end
 
-@@ -44,32 +46,37 @@
     it "adds a supply to memorial day" do
       add_supply_to_memorial_day(holiday_supplies, "Grill")
       expect(memorial_day_supplies).to include("Grill")
